@@ -34,7 +34,7 @@ Dans le BIOS, **modifiez l'ordre de démarrage pour que l'ordinateur démarre à
 - L'installation de Windows 11 devrait démarrer automatiquement. 
 - Suivez les instructions à l'écran pour installer Windows 11. 
 - **__Lorsque vous arrivez à l'étape de partitionnement du disque dur, sélectionnez l'option pour supprimer toutes les partitions existantes et créer une nouvelle partition pour l'installation de Windows 11.__**
-> **TRÈS IMPORTANT !!**
+-> **TRÈS IMPORTANT !!**
 
 <h3>- Étape 7: Installation des pilotes et des logiciels<h3>
 Une fois que Windows 11 est installé, vous devrez installer les pilotes de périphériques pour votre ordinateur, ainsi que tout logiciel que vous souhaitez utiliser.
