@@ -26,16 +26,16 @@ Téléchargez Rufus à partir du site officiel de Rufus. Rufus est un logiciel q
 Redémarrez votre ordinateur et accédez au BIOS en appuyant sur la touche spécifiée lors du démarrage (généralement la touche **Suppr, F2 ou F12**).<br>
 **-> vérifie ce que c'est pour ta carte mère, ça peut varier !!**<br>
 
-<h3>- Étape 5: Configuration du BIOS<h3>
+<h3>- Étape 5: Configuration du BIOS</h3>
 Dans le BIOS, **modifiez l'ordre de démarrage pour que l'ordinateur démarre à partir de la clé USB. Enregistrez les modifications et quittez le BIOS.**<br>
 **-> y'a des tutos pour ça en fonction de ta carte mère si besoin** <br>
 
-<h3>- Étape 6: Installation de Windows 11<h3>
+<h3>- Étape 6: Installation de Windows 11</h3>
 - L'installation de Windows 11 devrait démarrer automatiquement. 
 - Suivez les instructions à l'écran pour installer Windows 11. 
 - **__Lorsque vous arrivez à l'étape de partitionnement du disque dur, sélectionnez l'option pour supprimer toutes les partitions existantes et créer une nouvelle partition pour l'installation de Windows 11.__**
--> **TRÈS IMPORTANT !!**
+> **TRÈS IMPORTANT !!**
 
-<h3>- Étape 7: Installation des pilotes et des logiciels<h3>
+<h3>- Étape 7: Installation des pilotes et des logiciels</h3>
 Une fois que Windows 11 est installé, vous devrez installer les pilotes de périphériques pour votre ordinateur, ainsi que tout logiciel que vous souhaitez utiliser.
 **-> jte conseille Driver Booster pour ça, c'est carré**
