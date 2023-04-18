@@ -38,4 +38,4 @@ Dans le BIOS, **modifiez l'ordre de démarrage pour que l'ordinateur démarre à
 
 <h3>- Étape 7: Installation des pilotes et des logiciels</h3>
 Une fois que Windows 11 est installé, vous devrez installer les pilotes de périphériques pour votre ordinateur, ainsi que tout logiciel que vous souhaitez utiliser.
-**-> jte conseille Driver Booster pour ça, c'est carré**
+<br>**-> jte conseille Driver Booster pour ça, c'est carré**
