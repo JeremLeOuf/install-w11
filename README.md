@@ -9,7 +9,7 @@ __Matériel nécessaire:__
 
 ~~-Étape 1: Téléchargement du fichier ISO de Windows 11</h3>
 Téléchargez le fichier ISO de Windows 11 à partir d'un site de téléchargement fiable, tel que le site officiel de Microsoft.~~<br>
-**-> télécharge celui que jvais tenvoyer plutot**<br>
+**-> télécharge celui la plutot: <a href="https://1drv.ms/u/s!AnaHt2PTkorMhtcQnew9KNACDV01og?e=0kMtCK">LIEN</a>**<br>
 
 <h3>- Étape 2: Téléchargement de Rufus</h3>
 Téléchargez Rufus à partir du site officiel de Rufus. Rufus est un logiciel qui vous permettra de créer une clé USB bootable à partir de votre fichier ISO.<br>
