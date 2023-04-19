@@ -1,5 +1,5 @@
 # Installer une copie neuve de Windows 11 en formattant tout ses disques /!\ 
-Tuto pour FRIP pour installer W11
+Tutoriel dédié à Frip le Fomblard
 
 __Matériel nécessaire:__
 
