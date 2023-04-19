@@ -1,4 +1,4 @@
-# install-w11
+# Installer une copie neuve de Windows 11 en formattant tout ses disques /!\ 
 Tuto pour FRIP pour installer W11
 
 __Matériel nécessaire:__
